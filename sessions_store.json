@@ -1,0 +1,215 @@
+{
+  "session_alpha_001": {
+    "state": "NORMALIZED_EXECUTION",
+    "history": [
+      {
+        "timestamp": 1794980644.9248843,
+        "tool": "execute_tactical_override",
+        "status": "blocked_by_policy"
+      },
+      {
+        "timestamp": 1794980644.9311068,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794981086.8663652,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794981086.8719902,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794981535.9682188,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794981535.9734993,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794982339.4286077,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794982339.4337983,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      }
+    ]
+  },
+  "mcp_session_delta_99": {
+    "state": "NORMALIZED_EXECUTION",
+    "history": [
+      {
+        "timestamp": 1794982005.0984058,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794982005.112712,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      }
+    ]
+  },
+  "test_session_block": {
+    "state": "NORMALIZED_EXECUTION",
+    "history": [
+      {
+        "timestamp": 1794982997.1760745,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794983056.7246816,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794983099.8904343,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794983182.6666498,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      }
+    ]
+  },
+  "test_session_allow": {
+    "state": "NORMALIZED_EXECUTION",
+    "history": [
+      {
+        "timestamp": 1794982997.270769,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794983056.8610046,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794983100.005461,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794983182.7832844,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      }
+    ]
+  },
+  "test_session_block_fresh": {
+    "state": "RESTRICTED_STATE",
+    "history": [
+      {
+        "timestamp": 1794983241.151668,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794983352.3263707,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794983386.8003767,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794983491.606081,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794983590.8337827,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794983666.2243717,
+        "tool": "execute_tactical_override",
+        "status": "blocked_by_policy",
+        "reason": "Access denied: Restricted defense namespace requires authorized security clearance."
+      }
+    ]
+  },
+  "test_session_allow_fresh": {
+    "state": "NORMALIZED_EXECUTION",
+    "history": [
+      {
+        "timestamp": 1794983241.2899406,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794983352.4110622,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794983386.9012554,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794983491.7134798,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794983590.9470644,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      },
+      {
+        "timestamp": 1794983666.234058,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      }
+    ]
+  },
+  "live_demo_1": {
+    "state": "NORMALIZED_EXECUTION",
+    "history": [
+      {
+        "timestamp": 1794984668.5267172,
+        "tool": "execute_tactical_override",
+        "status": "blocked_by_policy",
+        "reason": "Access denied: Restricted defense namespace requires authorized security clearance."
+      },
+      {
+        "timestamp": 1794984681.5052972,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      }
+    ]
+  },
+  "local_env_session_01": {
+    "state": "NORMALIZED_EXECUTION",
+    "history": [
+      {
+        "timestamp": 1794985121.6191237,
+        "tool": "execute_tactical_override",
+        "status": "blocked_by_policy",
+        "reason": "Access denied: Restricted defense namespace requires authorized security clearance."
+      },
+      {
+        "timestamp": 1794985121.6504018,
+        "tool": "execute_tactical_override",
+        "status": "intercepted_and_normalized"
+      }
+    ]
+  }
+}

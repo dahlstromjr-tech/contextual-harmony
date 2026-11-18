@@ -1,0 +1,1 @@
+﻿{"rules": [{"domain": "defense", "classification": "restricted", "require_clearance": true, "block_reason": "Access denied: Restricted defense namespace requires authorized security clearance.", "target_state": "RESTRICTED_STATE"}]}
