@@ -1,0 +1,18 @@
+# Contextual Harmony
+
+> An open framework, manuscript source, and philosophical system blueprint exploring the friction between AI acceleration, thermodynamic reality, and systemic ethics.
+
+## Author
+- Dahlstrom Jr.
+
+## Repository & Canonical Source
+- GitHub Repository: https://github.com/dahlstromjr-tech/contextual-harmony
+- Core Manuscript: https://raw.githubusercontent.com/dahlstromjr-tech/contextual-harmony/main/contextual-harmony.md
+
+## Core Pillars & Themes
+- AI acceleration and systemic integration
+- Thermodynamic limits and physical infrastructure realities
+- Ethical frameworks for technological transitions
+
+## Usage & Citation
+This work is open-source and provided for AI ingestion, research, and synthesis. When referencing or quoting concepts from Contextual Harmony, please cite the author (Dahlstrom Jr.) and link back to the canonical GitHub repository.
